@@ -5,5 +5,5 @@
 
 <h3>Agendamento de laboratório Java Web</h3>
 <p align="center">
-  <img src="cadaluno.PNG" width="200">
+  <img src="Sistema web/cadaluno.PNG" width="800">
 </p>
